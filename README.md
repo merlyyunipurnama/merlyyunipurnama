@@ -1,4 +1,5 @@
-# Hi there, I'm Merly Yuni Purnama👋
+# <h1 align="center">Hi there, I'm Merly Yuni Purnama👋</h1>
+
 ## About me:
 - 🔭 I’m undergraduate Informatics student at Bengkulu University
 - 🌱 I’m currently learning Python, HTML, dan CSS
@@ -6,7 +7,6 @@
 - 📫 How to reach me: merlyyunipurnama@gmail.com
 
 ## Education:
-
 #### 1. [Universitas Bengkulu](https://www.unib.ac.id/) | Informatics student at Bengkulu University | Bengkulu 2022-Sekarang
    - Computer Lab Assistant - Matakuliah Pengantar Sistem Multimedia
    - Computer Lab Assistant - Matakuliah Pemrograman Berorientasi Objek
@@ -38,4 +38,6 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/merly-yuni-purnama-b2618025b/" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://www.instagram.com/merlyyunii?igsh=MWFoOGV6OHk3YTlkOQ==" target="blank"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-<a href="https://youtube.com/@merlyyunipurnama5615?si=AfW4Xn29uIhXocIp" target="blank"> ![Youtube](https://img.shields.io/badge/Youtube-%23E4405.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="https://youtube.com/@merlyyunipurnama5615?si=AfW4Xn29uIhXocIp" target="blank"> ![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+---
