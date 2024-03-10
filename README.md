@@ -1,8 +1,8 @@
 # <h1 align="center">Hi there, I'm Merly Yuni Purnama👋</h1>
 
 ## About me:
-- 🔭 I’m undergraduate Informatics student at Bengkulu University
-- 🌱 I’m currently learning Python, HTML, dan CSS
+- 🏫 I’m Undergraduate Informatics Student at Bengkulu University
+- 💡 I am interested in the field of Data and Artificial Intelligence
 - 💬 Ask me about anything
 - 📫 How to reach me: merlyyunipurnama@gmail.com
 
@@ -15,14 +15,19 @@
 
 ## Honors & Awards:
 #### 1. [Puskanas](https://app.puskanas.id/) | Sains Nasional | Februari 2024
-   - Olimpiade Sains Tingkat Nasional pada tanggal 04 Februari 2024 yang diselenggarakan secara daring bertajuk Indonesian Science Olympiad (ISO) 2024 sebagai peraih       Medali Perak bidang Matematika
+   - Olimpiade Sains Tingkat Nasional pada tanggal 04 Februari 2024 yang diselenggarakan secara daring bertajuk Indonesian Science Olympiad (ISO) 2024 sebagai peraih Medali Perak              bidang Matematika
 #### 2. [Dinas Pendidikan dan Kebudayaan](https://disdik.bengkulukota.go.id/) | Beasiswa Mahasiswa Berprestasi Provinsi Bengkulu| November 2023
-   - Menerima Beasiswa Mahasiswa Berprestasi Provinsi Bengkulu yang diserahkan pada November 2023, diselenggarakan oleh Dinas Pendidikan dan Kebudayaan Provinsi 
-     Bengkulu
+   - Menerima Beasiswa Mahasiswa Berprestasi Provinsi Bengkulu yang diserahkan pada November 2023, diselenggarakan oleh Dinas Pendidikan dan Kebudayaan Provinsi Bengkulu
 #### 3. [Mathematics Hint](https://www.instagram.com/math.hint?igsh=MTF5MXo2N2Q1ZXplcg==) | Kompetisi Matematika | November 2021
-   - Kompetisi Tingkat Nasional pada tahun 2021 yang diselenggarakan secara daring sebagai peraih Peringkat keenam bidang Matematika
+   - Kompetisi Sains Tingkat Nasional pada tahun 2021 yang diselenggarakan secara daring sebagai peraih Peringkat Keenam bidang Matematika
 #### 4. [RNG Edu Management](https://www.instagram.com/rng.edu.management?igsh=MTIyZDBmc2FmcjNseQ==) | Sains Nasional | Juni 2021
    - Olimpiade Sains Tingkat Nasional pada tanggal 06 Juni 2021 yang diselenggarakan secara daring sebagai peraih Medali Emas bidang Matematika
+
+## Languages:
+#### 1. Bahasa Indonesia
+   - Native or bilingual proficiency
+#### 2. Bahasa Inggris
+   - Limited working proficiency
 ---
 
 ### Languages and Tools:
