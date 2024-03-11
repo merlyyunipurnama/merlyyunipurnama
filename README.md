@@ -1,13 +1,13 @@
-# <h1 align="center">Hi there, I'm Merly Yuni Purnama👋</h1>
+# <h1 align="center">Hi Guys, I'm Merly Yuni Purnama👋</h1>
 
 ## About me:
 - 🏫 I’m Undergraduate Informatics Student at Bengkulu University
 - 💡 I am interested in the field of Data and Artificial Intelligence
-- 💬 Ask me about anything
 - 📫 How to reach me: merlyyunipurnama@gmail.com
+- 💬 Ask me about anything
 
 ## Education:
-#### 1. [Universitas Bengkulu](https://www.unib.ac.id/) | Informatics student at Bengkulu University | Bengkulu 2022-Sekarang
+#### 1. [Universitas Bengkulu](https://www.unib.ac.id/) | Informatics Student at Bengkulu University | Bengkulu 2022-Sekarang
    - Computer Lab Assistant - Matakuliah Pengantar Sistem Multimedia
    - Computer Lab Assistant - Matakuliah Pemrograman Berorientasi Objek
 #### 2. [SMA N 5 Kota Bengkulu](https://smanlikotabengkulu.sch.id/) | MIPA | Bengkulu 2019-2022
@@ -22,6 +22,12 @@
    - Kompetisi Sains Tingkat Nasional pada tahun 2021 yang diselenggarakan secara daring sebagai peraih Peringkat Keenam bidang Matematika
 #### 4. [RNG Edu Management](https://www.instagram.com/rng.edu.management?igsh=MTIyZDBmc2FmcjNseQ==) | Sains Nasional | Juni 2021
    - Olimpiade Sains Tingkat Nasional pada tanggal 06 Juni 2021 yang diselenggarakan secara daring sebagai peraih Medali Emas bidang Matematika
+
+## Organization:
+#### 1. [Himpunan Mahasiswa Teknik Informatika](https://himatifunib.org/) | Bengkulu University | Januari 2024-Sekarang
+   - Sekretaris Divisi Hubungan Masyarakat (HUMAS)
+#### 2. [UKM Engineering Research Community](https://www.instagram.com/ercom_ftunib?igsh=MXVtYTU1bG12dzl2cg==) | Bengkulu University | Januari 2024-Sekarang
+   - Anggota Biro Kestari
 
 ## Languages:
 #### 1. Bahasa Indonesia
