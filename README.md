@@ -11,15 +11,15 @@
    - Computer Lab Assistant - Mata Kuliah Basis Data Lanjut
    - Computer Lab Assistant - Mata Kuliah Umum Komputer dan Pemrograman
    - Computer Lab Assistant - Mata Kuliah Pengantar Basis Data
-   - Computer Lab Assistant - Matakuliah Pengantar Sistem Multimedia
-   - Computer Lab Assistant - Matakuliah Pemrograman Berorientasi Objek
+   - Computer Lab Assistant - Mata Kuliah Pengantar Sistem Multimedia
+   - Computer Lab Assistant - Mata Kuliah Pemrograman Berorientasi Objek
 #### 2. [SMA N 5 Kota Bengkulu](https://smanlikotabengkulu.sch.id/) | MIPA | Bengkulu 2019-2022
    - Olimpiade Sains Nasional (OSN)
 
 ## Honors & Awards:
 #### 1. [Puskanas](https://app.puskanas.id/) | Sains Nasional | Februari 2024
    - Olimpiade Sains Tingkat Nasional pada tanggal 04 Februari 2024 yang diselenggarakan secara daring bertajuk Indonesian Science Olympiad (ISO) 2024 sebagai peraih Medali Perak              bidang Matematika
-#### 2. [Dinas Pendidikan dan Kebudayaan](https://disdik.bengkulukota.go.id/) | Beasiswa Mahasiswa Berprestasi Provinsi Bengkulu| November 2023
+#### 2. [Dinas Pendidikan dan Kebudayaan](https://disdik.bengkulukota.go.id/) | Beasiswa Mahasiswa Berprestasi Provinsi Bengkulu| 2023 & 2024
    - Menerima Beasiswa Mahasiswa Berprestasi Provinsi Bengkulu yang diserahkan pada November 2023, diselenggarakan oleh Dinas Pendidikan dan Kebudayaan Provinsi Bengkulu
 #### 3. [Mathematics Hint](https://www.instagram.com/math.hint?igsh=MTF5MXo2N2Q1ZXplcg==) | Kompetisi Matematika | November 2021
    - Kompetisi Sains Tingkat Nasional pada tahun 2021 yang diselenggarakan secara daring sebagai peraih Peringkat Keenam bidang Matematika
