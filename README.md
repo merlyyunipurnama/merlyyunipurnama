@@ -8,6 +8,7 @@
 
 ## Education:
 #### 1. [Universitas Bengkulu](https://www.unib.ac.id/) | Informatics Student at Bengkulu University | Bengkulu 2022-Sekarang
+   - Computer Lab Assistant - Mata Kuliah Basis Data Lanjut
    - Computer Lab Assistant - Mata Kuliah Umum Komputer dan Pemrograman
    - Computer Lab Assistant - Mata Kuliah Pengantar Basis Data
    - Computer Lab Assistant - Matakuliah Pengantar Sistem Multimedia
