@@ -54,3 +54,10 @@
 <a href="https://youtube.com/@merlyyunipurnama5615?si=AfW4Xn29uIhXocIp" target="blank"> ![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ---
+### Github Statistic:
+<p align="center">
+<a href="https://github.com/merlyyunipurnama">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=merlyyunipurnama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=merlyyunipurnama&layout=compact&theme=algolia"/>
+</a>
+</p>
